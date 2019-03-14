@@ -23,7 +23,7 @@ import com.oldnoop.service.MemberServiceImpl;
 @RequestMapping("/member")
 public class MemberController {
 
-//GitHub修改
+        //GitHub修改
 	@Autowired
 	private MemberServiceImpl memberService;
 	@Autowired
